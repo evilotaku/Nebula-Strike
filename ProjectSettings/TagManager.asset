@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Camera Rig
+  - Planet
+  - Base
+  - player 1 spawn
+  - player 2 spawn
+  - player 3 spawn
+  - player 4 spawn
+  - player 1 HP GUI
+  - player 2 HP GUI
+  - player 3 HP GUI
+  - player 4 HP GUI
+  - player 5 HP GUI
+  - player 6 HP GUI
+  - player 7 HP GUI
+  - player 8 HP GUI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Planet
+  - Mob
+  - Feeler
+  - Detection Zone
+  - Base
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
